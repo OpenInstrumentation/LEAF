@@ -3,7 +3,7 @@ Logger for Environmental and Atmospheric Factors
 
 CC-BY-SA 2019, A. Matheny, P. Marchetto, J. Powell, A. Rechner, J-y. Chuah, and S. Pierce
 
-BoM: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8v-ukr38iTDn-cAedqp6OXnIay0lwoVsFbz_EMlWamA66PgREalaegVoSEzRlPvawVt73zznOhLpU/pubhtml
+BoM: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8v-ukr38iTDn-cAedqp6OXnIay0lwoVsFbz_EMlWamA66PgREalaegVoSEzRlPvawVt73zznOhLpU/pubhtml or any of the BoM files above.
 
 # Purpose
 The LEAF is designed to be a modular sensing system, capable of measuring meteorological, hydrological, and other environmental parameters. In the design detailed in this repository, it was used to measure canopy throughfall of rain, soil moisture, and microclimate meteorological parameters, along with branch movement in the same tree the throughfall measurements were being made in.
